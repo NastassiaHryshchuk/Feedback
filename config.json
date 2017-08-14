@@ -1,0 +1,39 @@
+{
+  "vars": {
+    "@grid-gutter-width": "20",
+    "@container-large-desktop": "1200px",
+    "@navbar-border-radius": "0"
+  },
+  "css": [
+    "grid.less",
+    "forms.less",
+    "buttons.less",
+    "responsive-utilities.less",
+    "glyphicons.less",
+    "input-groups.less",
+    "navs.less",
+    "navbar.less",
+    "badges.less",
+    "component-animations.less",
+    "dropdowns.less",
+    "tooltip.less",
+    "popovers.less",
+    "modals.less",
+    "carousel.less"
+  ],
+  "js": [
+    "alert.js",
+    "button.js",
+    "carousel.js",
+    "dropdown.js",
+    "modal.js",
+    "tooltip.js",
+    "popover.js",
+    "tab.js",
+    "affix.js",
+    "collapse.js",
+    "scrollspy.js",
+    "transition.js"
+  ],
+  "customizerUrl": "http://getbootstrap.com/customize/?id=5f4f187fb4c410e371c7d6d0dee7c441"
+}
